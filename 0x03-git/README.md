@@ -1,0 +1,1 @@
+This is proyect is about how to use Git in the linux bash
