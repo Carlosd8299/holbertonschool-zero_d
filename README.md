@@ -1,1 +1,1 @@
-this proyect is created in order to work on our first proyect inside holberton
+Editado desde Github
